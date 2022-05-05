@@ -1,0 +1,23 @@
+{
+  "name": "design_patern_with_typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielAlonso/design_patern_with_typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielAlonso/design_patern_with_typescript/issues"
+  },
+  "homepage": "https://github.com/GabrielAlonso/design_patern_with_typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
